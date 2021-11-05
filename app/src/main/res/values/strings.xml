@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">twitterApp</string>
+    <string name="go_back">Go Back</string>
+    <string name="mention_tuwaiq">\"Go to Tuwaiq Academy Acount \"</string>
+    <string name="like">Like</string>
+    <string name="retweet">Make Retweet</string>
+    <string name="share">Share</string>
+    <string name="replay">\"Replying to Tuwaiq Academy \"</string>
+    <string name="tweets">Tweet</string>
+    <string name="acountname">Tuwaiq Academy</string>
+    <string name="twauqacademymention">\@TwauqAcademy</string>
+    <string name="contenttext">Steps to register in #معسكر_طويق_1000 Remote for available software paths Registration via the educational platform</string>
+    <string name="empty" />
+    <string name="retweetsandlikes">11Retweets 40Likes</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">twitterApp</string>
+    <string name="go_back">ارجع</string>
+    <string name="mention_tuwaiq">الذهاب الى حساب طويق</string>
+    <string name="like">اعجاب</string>
+    <string name="retweet">اعادة توجيه تغريده</string>
+    <string name="share">مشاركه</string>
+    <string name="replay">الرد على التغريدة</string>
+    <string name="tweets">تغريدة</string>
+    <string name="acountname">أكاديمية طويق</string>
+    <string name="twauqacademymention">\@TwauqAcademy</string>
+    <string name="empty">" "</string>
+    <string name="contenttext">خطوات التسجيل في #معسكر_طويق_1000 عن بُعد للمسارات البرمجية المتاحة التسجيل عبر رابط منصة سطر التعليمية: http://satr.codes</string>
+    <string name="retweetsandlikes">11اعادة تغريده 40اعجاب</string>
+</resources>
